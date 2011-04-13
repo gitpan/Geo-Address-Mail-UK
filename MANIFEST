@@ -8,7 +8,7 @@ inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
 lib/Geo/Address/Mail/UK.pm
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
 META.yml
 t/new_for_country.t
 t/uk.t
